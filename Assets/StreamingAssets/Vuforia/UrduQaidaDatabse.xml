@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="jeemlarge2" size="1.000000 1.259215" />
+    <ImageTarget name="jeemlarge1" size="1.000000 1.268446" />
+    <ImageTarget name="jeemmedium2" size="1.000000 1.281746" />
+    <ImageTarget name="jeemmedium1" size="1.000000 1.287526" />
+    <ImageTarget name="jeemsmall2" size="1.000000 1.271429" />
+    <ImageTarget name="jeemsmall1" size="1.000000 1.273684" />
+    <ImageTarget name="paylarge2" size="1.000000 0.884023" />
+    <ImageTarget name="paylarge1" size="1.000000 0.863900" />
+    <ImageTarget name="paymedium2" size="1.000000 0.873979" />
+    <ImageTarget name="paymedium1" size="1.000000 0.840909" />
+    <ImageTarget name="paysmall2" size="1.000000 0.879473" />
+    <ImageTarget name="paysmall1" size="1.000000 0.886040" />
+    <ImageTarget name="baylarge2" size="1.000000 0.729794" />
+    <ImageTarget name="baylarge1" size="1.000000 0.728250" />
+    <ImageTarget name="baymedium2" size="1.000000 0.743622" />
+    <ImageTarget name="baymedium1" size="1.000000 0.780908" />
+    <ImageTarget name="baysmall2" size="1.000000 0.694882" />
+    <ImageTarget name="baysmall1" size="1.000000 0.778082" />
+    <ImageTarget name="aliflarge2" size="1.000000 4.634538" />
+    <ImageTarget name="aliflarge1" size="1.000000 4.321243" />
+    <ImageTarget name="alifmedium2" size="1.000000 4.009901" />
+    <ImageTarget name="alifmedium1" size="1.000000 3.625641" />
+    <ImageTarget name="alifsmall2" size="1.000000 1.789474" />
+    <ImageTarget name="alifsmall1" size="1.000000 0.815900" />
     <ImageTarget name="jeemsmall" size="1.000000 0.749735" />
     <ImageTarget name="jeemlarge" size="1.000000 0.749735" />
     <ImageTarget name="paysmall" size="1.000000 0.749735" />
