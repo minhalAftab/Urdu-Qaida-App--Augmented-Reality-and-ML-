@@ -586,7 +586,7 @@ MonoBehaviour:
   mAspectRatio: 0.694882
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.694882
 --- !u!21 &105079456
 Material:
   serializedVersion: 6
@@ -1576,7 +1576,7 @@ MonoBehaviour:
   mAspectRatio: 0.743622
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.743622
 --- !u!1 &319207716
 GameObject:
   m_ObjectHideFlags: 0
@@ -1700,7 +1700,7 @@ MonoBehaviour:
   mAspectRatio: 0.8639
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.8639
 --- !u!1 &383022177
 GameObject:
   m_ObjectHideFlags: 0
@@ -1948,7 +1948,7 @@ MonoBehaviour:
   mAspectRatio: 0.780908
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.780908
 --- !u!21 &432157590
 Material:
   serializedVersion: 6
@@ -5499,7 +5499,7 @@ MonoBehaviour:
   mAspectRatio: 0.879473
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.879473
 --- !u!21 &1110527424
 Material:
   serializedVersion: 6
@@ -5651,7 +5651,7 @@ MonoBehaviour:
   mAspectRatio: 0.840909
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.840909
 --- !u!1 &1135259746
 GameObject:
   m_ObjectHideFlags: 0
@@ -5682,7 +5682,7 @@ Transform:
   m_GameObject: {fileID: 1135259746}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.65, y: 0, z: -1.28}
-  m_LocalScale: {x: 1.287526, y: 1.287526, z: 1.287526}
+  m_LocalScale: {x: 1.281746, y: 1.281746, z: 1.281746}
   m_Children: []
   m_Father: {fileID: 834979564}
   m_RootOrder: 29
@@ -5768,14 +5768,14 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: jeemmedium1
+  mTrackableName: jeemmedium2
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/UrduQaidaDatabse.xml
-  mAspectRatio: 1.287526
+  mAspectRatio: 1.281746
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 1.287526
+  mHeight: 1.281746
 --- !u!1 &1136107805
 GameObject:
   m_ObjectHideFlags: 0
@@ -5899,7 +5899,7 @@ MonoBehaviour:
   mAspectRatio: 0.884023
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.884023
 --- !u!21 &1138725072
 Material:
   serializedVersion: 6
@@ -5907,7 +5907,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 'jeemmedium1Material
+  m_Name: 'jeemmedium2Material
 
     -5294'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
@@ -5922,7 +5922,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7fc8facc997249f593d697f0fe35bb52, type: 3}
+        m_Texture: {fileID: 2800000, guid: 313177e910b04c5a8c8141f59d1b9cdf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -7271,7 +7271,7 @@ MonoBehaviour:
   mAspectRatio: 0.72825
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.72825
 --- !u!1 &1476691048
 GameObject:
   m_ObjectHideFlags: 0
@@ -7547,7 +7547,7 @@ MonoBehaviour:
   mAspectRatio: 0.873979
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.873979
 --- !u!43 &1617531511
 Mesh:
   m_ObjectHideFlags: 0
@@ -7566,7 +7566,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.38834167, y: 0, z: 0.5}
+      m_Extent: {x: 0.39009288, y: 0, z: 0.5}
   m_Shapes:
     vertices: []
     shapes: []
@@ -7645,7 +7645,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: b8d4c6be00000000000000bf000000000000803f000000000000000000000000b8d4c6be000000000000003f000000000000803f00000000000000000000803fb8d4c63e00000000000000bf000000000000803f000000000000803f00000000b8d4c63e000000000000003f000000000000803f000000000000803f0000803f
+    _typelessdata: 41bac7be00000000000000bf000000000000803f00000000000000000000000041bac7be000000000000003f000000000000803f00000000000000000000803f41bac73e00000000000000bf000000000000803f000000000000803f0000000041bac73e000000000000003f000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -8638,7 +8638,7 @@ MonoBehaviour:
   mAspectRatio: 0.8159
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.8159
 --- !u!43 &1757234434
 Mesh:
   m_ObjectHideFlags: 0
@@ -8925,7 +8925,7 @@ MonoBehaviour:
   mAspectRatio: 0.88604
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.88604
 --- !u!43 &1814192412
 Mesh:
   m_ObjectHideFlags: 0
@@ -9528,6 +9528,72 @@ MonoBehaviour:
   mImageTargetType: 0
   mWidth: 1
   mHeight: 1.287526
+--- !u!1 &1909595332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1909595335}
+  - component: {fileID: 1909595334}
+  - component: {fileID: 1909595333}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1909595333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909595332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1909595334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909595332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1909595335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909595332}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!21 &1913215926
 Material:
   serializedVersion: 6
@@ -10185,7 +10251,7 @@ MonoBehaviour:
   mAspectRatio: 0.778082
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.778082
 --- !u!1 &2095935189
 GameObject:
   m_ObjectHideFlags: 0
@@ -10309,7 +10375,7 @@ MonoBehaviour:
   mAspectRatio: 0.729794
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.749735
+  mHeight: 0.729794
 --- !u!1 &2146839001
 GameObject:
   m_ObjectHideFlags: 0
